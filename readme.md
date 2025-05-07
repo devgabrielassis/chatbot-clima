@@ -1,12 +1,12 @@
-🚀 Instalação
-git clone https://github.com/devgabrielassis/chatbot-clima
-cd chatbot-clima
+🚀 Instalação <br>
+git clone https://github.com/devgabrielassis/chatbot-clima <br>
+cd chatbot-clima <br>
 npm install
 
-▶️ Como rodar
+▶️ Como rodar <br>
 node src/index.js
 
-🧰 Funcionalidades
-Saudação inicial
-Menu interativo via terminal (CLI)
+🧰 Funcionalidades <br>
+Saudação inicial <br>
+Menu interativo via terminal (CLI) <br>
 Consulta de clima atual por nome da cidade
